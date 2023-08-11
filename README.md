@@ -33,7 +33,16 @@
 
 ### Kısa Film ve Belgesel Örnekleri
 ### Belgeler
-
 #### Görevlendirmeler ve Teşekkür Belgeleri
+
+ 1. [Üniversite Görevlendirmeler](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7%20U%CC%88ni.Go%CC%88revlendirmeleri%20.pdf)
+ 2. [Ödül Töreni Teşekkür Belgesi](https://cangulakdas.github.io/ozgecmis/Tes%CC%A7ekku%CC%88r%20Belgesi%20O%CC%88du%CC%88l%20To%CC%88reni.pdf)
+ 3. [Tasarım Günleri Festivali Teşekkür Belgesi](https://cangulakdas.github.io/ozgecmis/Tes%CC%A7ekku%CC%88r%20Belgesi%20Tan%C4%B1t%C4%B1m%20Fest.pdf)
+
 #### Sempozyum Katılım Belgeleri
 
+ 1. [Anadolu Üniversitesi, 4. Uluslararası İletişim Öğrencileri Sempozyumu](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20Anadolu%20U%CC%88niversitesi.pdf)
+ 3. [Çukurova Üniversitesi, 3. Genç İletişimciler Kongresi](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20C%CC%A7ukurova%20U%CC%88niversitesi.pdf)
+ 4. [Gazi Üniversitesi, 8. İletişim Öğrenci Kongresi](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20Gazi%20U%CC%88niversitesi.pdf)
+ 5. [8. Uluslararası Felsefe Eğitim Sanat ve Bilim Tarihi Sempozyumu](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20Mug%CC%86la%20S%C4%B1tk%C4%B1%20Koc%CC%A7man%20U%CC%88niversitesi.pdf)
+ 6. [İstanbul Ticaret Üniversitesi, II. Lisansüstü Öğrenci Kongresi](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20Ticaret%20U%CC%88niversitesi.pdf)
