@@ -3,6 +3,7 @@
 ### YÖK Formatlı Özgeçmiş
 [YÖK Formatlı Özgeçmiş](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7,YO%CC%88K%20Formatl%C4%B1%20O%CC%88zgec%CC%A7mis%CC%A7..pdf)
 ### Sanatsal Faaliyetler
+[Sanatsal Faaliyetler](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7,%20Cangu%CC%88l%20Sanatsal%20Faaliyetler.pdf)
 ### Özgeçmiş
 [Özgeçmiş](https://cangulakdas.github.io/ozgecmis/Cangu%CC%88l%20AKDAS%CC%A7.pdf)
 ### Yayın Listesi
@@ -32,6 +33,7 @@
  3. [Türk Filmlerinde Ölüm Teması](https://www.academia.edu/84822993/T%C3%BCrk_Filmlerinde_%C3%96l%C3%BCm_Temas%C4%B1)
 
 ### Kısa Film ve Belgesel Örnekleri
+
 ### Belgeler
 #### Görevlendirmeler ve Teşekkür Belgeleri
 
@@ -40,7 +42,6 @@
  3. [Tasarım Günleri Festivali Teşekkür Belgesi](https://cangulakdas.github.io/ozgecmis/Tes%CC%A7ekku%CC%88r%20Belgesi%20Tan%C4%B1t%C4%B1m%20Fest.pdf)
 
 #### Sempozyum Katılım Belgeleri
-
  1. [Anadolu Üniversitesi, 4. Uluslararası İletişim Öğrencileri Sempozyumu](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20Anadolu%20U%CC%88niversitesi.pdf)
  3. [Çukurova Üniversitesi, 3. Genç İletişimciler Kongresi](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20C%CC%A7ukurova%20U%CC%88niversitesi.pdf)
  4. [Gazi Üniversitesi, 8. İletişim Öğrenci Kongresi](https://cangulakdas.github.io/ozgecmis/Kat%C4%B1l%C4%B1m%20Belgesi%20Gazi%20U%CC%88niversitesi.pdf)
