@@ -1,5 +1,16 @@
-# Ozgecmis
+## CANGÜL AKDAŞ
 
-# Test
+### YÖK Formatlı Özgeçmiş
 
-abc
+### Sanatsal Faaliyetler
+### Özgeçmiş
+### Yayın Listesi
+### Kitaplar
+### Kitap Bölümleri
+### Makale 
+#### Hakemli Dergi
+#### Hakemsiz Dergi
+### Kısa Film ve Belgesel Örnekleri
+### Belgeler
+#### Görevlendirmeler ve Teşekkür Belgeleri
+#### Sempozyum Katılım Belgeleri
