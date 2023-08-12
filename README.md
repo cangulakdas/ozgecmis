@@ -2,8 +2,8 @@
 
 ### YÖK Formatlı Özgeçmiş
 [YÖK Formatlı Özgeçmiş](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7,YO%CC%88K%20Formatl%C4%B1%20O%CC%88zgec%CC%A7mis%CC%A7..pdf)
-### Sanatsal Faaliyetler
-[Sanatsal Faaliyetler](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7,%20Cangu%CC%88l%20Sanatsal%20Faaliyetler.pdf)
+### Bilimsel ve Sanatsal Faaliyetler
+[Bilimsel ve Sanatsal Faaliyetler](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7,%20Cangu%CC%88l%20Sanatsal%20Faaliyetler.pdf)
 ### Özgeçmiş
 [Özgeçmiş](https://cangulakdas.github.io/ozgecmis/Cangu%CC%88l%20AKDAS%CC%A7.pdf)
 ### Yayın Listesi
