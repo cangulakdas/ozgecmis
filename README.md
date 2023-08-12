@@ -1,7 +1,7 @@
 ## CANGÜL AKDAŞ
 
 ### YÖK Formatlı Özgeçmiş
-[YÖK Formatlı Özgeçmiş](https://cangulakdas.github.io/ozgecmis/AKDAS%CC%A7,YO%CC%88K%20FORMATLI%20O%CC%88ZGEC%CC%A7MI%CC%87S%CC%A7.pdf))
+[YÖK Formatlı Özgeçmiş](https://cangulakdas.github.io/ozgecmis/AKDAS%CC%A7,YO%CC%88K%20FORMATLI%20O%CC%88ZGEC%CC%A7MI%CC%87S%CC%A7.pdf)
 ### Bilimsel ve Sanatsal Faaliyetler
 [Bilimsel ve Sanatsal Faaliyetler](https://cangulakdas.github.io/ozgecmis/Akdas%CC%A7,%20Cangu%CC%88l%20Sanatsal%20Faaliyetler.pdf)
 ### Özgeçmiş
